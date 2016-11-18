@@ -494,6 +494,8 @@ namespace Lab2
             List<string> stack = new List<string>();
             stack.Add("$");
             stack.Add("E");
+            Lab1 l1 = new Lab1();
+            input = l1.start(input);
             input = input + "$";
             char[] a = input.ToCharArray();
             int i = 0;

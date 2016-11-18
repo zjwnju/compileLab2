@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="first.cs" />
     <Compile Include="follow.cs" />
+    <Compile Include="Lab1.cs" />
     <Compile Include="LL1M.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
